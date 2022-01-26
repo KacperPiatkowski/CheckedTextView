@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckedTextViewInKotlin</string>
+    <string name="msg_shown">CTView is:</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="msg1_shown">CTView1 is:</string>
+    <string name="checked1">checked1</string>
+    <string name="unchecked1">unchecked1</string>
+    <string name="checkedTextView">CheckedTextView</string>
+</resources>
